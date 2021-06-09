@@ -2,6 +2,12 @@
 Casual Linux Enjoyer, I use Arch btw.
 </p>
 
+```
+
+# 5 hours of debugging can save you 5 minutes of reading the README/docs.
+
+```
+
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" title="Arch Linux™">
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" title="vim">
