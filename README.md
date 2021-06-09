@@ -1,5 +1,5 @@
 <p align="center">
-Casual Linux Enjoyer, I use Arch btw.
+  Casual Linux Enjoyer, <b>I use Arch btw.</b>
 </p>
 
 ```
