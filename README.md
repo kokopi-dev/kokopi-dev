@@ -4,7 +4,7 @@
 
 ```
 
-# 5 hours of debugging can save you 5 minutes of reading the README/docs.
+# 5 hours of debugging can save you 5 minutes of reading the docs.
 
 ```
 
@@ -20,3 +20,4 @@
   <img src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" title="Tailwindcss">
 </p>
 
+![neofetch_thunar](https://github.com/biyocode/biyocode/assets/39069737/bca80d39-c313-41f9-99f1-1f4ef6ff641d)
